@@ -2,7 +2,7 @@
 #from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
-import emoji
+#import emoji
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 from scipy.special import softmax

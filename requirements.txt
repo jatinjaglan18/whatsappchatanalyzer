@@ -6,4 +6,4 @@ transformers
 scipy
 matplotlib
 seaborn
-pytorch
+nltk
